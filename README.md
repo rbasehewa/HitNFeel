@@ -2,9 +2,10 @@
 <p>This project contains flashing colors.</p>
 <p>If you're prone to photosensitive epilepsy then please proceed with caution. Viewer discretion advised </p>
 
-## important Note
+## Important Note
 <p> You need to have a Chrome browser </p>
  You can hit a key on your keyboard and each key corresponds to sound that a play and little animation.
+ 
 ## Steps
 <ul>
 <li>Download the project folder</li>
